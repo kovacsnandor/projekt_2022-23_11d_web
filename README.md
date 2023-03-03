@@ -1,0 +1,3 @@
+# Feladat kitűzés
+
+## Általános
