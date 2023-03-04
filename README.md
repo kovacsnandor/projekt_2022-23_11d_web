@@ -34,6 +34,18 @@ Készítsen egyszerű (néhány táblás, egy-több kapcsolatú) adatbázist, am
         - biztonsági mentés
         - sql lekérdezés dokumentáció: `projektnev.sql`
 
+# Ütmezés
+## 2023.03.03-05: adatbázis
+- Az adatbáziskok kiválasztása
+- Az adatbázisok elkészítése
+    - Táblák
+    - Kapcsolatok
+    - Diagram
+- Github repók elkészítése, kipróbálása
+    - Helyi repó csatlakoztatása
+    - Push teszt
+    - Mappák elkészítése    
+
 # Konkrét feladatok
 ## Fehér György Márk: `focicsapat`
 ![](./_feladatok/focicsapat/focicsapat.jpg)
