@@ -52,38 +52,38 @@ Készítsen egyszerű (néhány táblás, egy-több kapcsolatú) adatbázist, am
 
 # Konkrét feladatok
 ## Fehér György Márk: `focicsapat`
-![](./_feladatok/focicsapat/focicsapat.jpg)
+![Fifa](./_feladatok/focicsapat/focicsapat.jpg)
 
 ## Fehér Zsolt Dorián: `fifa`
 ![](./_feladatok/fifa/fifa.jpg)
 
 ## Hajdu István: `dobosok`
-![](./_feladatok/dobosok/dobosok.jpg)
+![Dobosok](./_feladatok/dobosok/dobosok.jpg)
 
 ## Jáger Kristóf: `telepulesek`
-![](./_feladatok/telepulesek/telepulesek.jpg)
+![Települések](./_feladatok/telepulesek/telepulesek.jpg)
 
-## Juhász Gergő: 
-![](./_feladatok/)
+## Juhász Gergő: dragonbol
+![Dragonbol](./_feladatok/dragonbol/dragonbol.jpg)
 
 ## Kovács János: `rajzfilmek`
-![](./_feladatok/rajzfilmek/rajzfilmek.jpg)
+![Rajzfilmek](./_feladatok/rajzfilmek/rajzfilmek.jpg)
 
 ## Ledacs-Kiss Bence
 ![](./_feladatok/)
 
 ## Medgyes Csaba: `hazak`
-![](./_feladatok/)
+![Házak](./_feladatok/hazak/hazak.jpg)
 
 ## Molnár Krisztián: `legendakLigaja`
-![](./_feladatok/legendakLigaja/legendakLigaja.jpg)
+![Legendák ligája](./_feladatok/legendakLigaja/legendakLigaja.jpg)
 
 ## Nagy Ferenc: `jatekok`
 ![](./_feladatok/jatekok/jatekok.jpg)
 
 ## Oláh Péter: `genshimImpact`
-![](./_feladatok/)
+![genshimImpact](./_feladatok/genshimImpact/genshimImpact.jpg)
 
 ## Polyák Alex János: `verseny`
-![](./_feladatok/)
+![Verseny](./_feladatok/verseny/verseny.jpg)
 
