@@ -35,12 +35,16 @@ Készítsen egyszerű (néhány táblás, egy-több kapcsolatú) adatbázist, am
         - sql lekérdezés dokumentáció: `projektnev.sql`
 
 # Ütmezés
-## 2023.03.03-05: adatbázis
+## 2023.03.03-09: adatbázis
 - Az adatbáziskok kiválasztása
 - Az adatbázisok elkészítése
     - Táblák
     - Kapcsolatok
     - Diagram
+- Teszt adatok
+    - Legyenek adatok lehetőleg véletlenek
+    - Tárolt eljárással
+    - biztonsági másolat
 - Github repók elkészítése, kipróbálása
     - Helyi repó csatlakoztatása
     - Push teszt
